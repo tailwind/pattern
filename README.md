@@ -1,6 +1,8 @@
 Pattern
 =======
 
+[![Build Status](https://travis-ci.org/pinleague/pattern.svg?branch=master)](https://travis-ci.org/pinleague/pattern)
+
 Pattern is a web mining module for Python. It has tools for:
 
  * Data Mining: web services (Google, Twitter, Wikipedia), web crawler, HTML DOM parser
